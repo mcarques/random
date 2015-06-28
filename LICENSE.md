@@ -1,0 +1,3 @@
+Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y archivos de documentación asociados para tratarlo sinrestricciones, incluyendo sin limitación los derechos para usar, copia, modificar, fusionar, publicar, distribuir y vender copias del software, y para permitir que otras personas a quienes se proporcione el software para hacerlo con sujección a la siguiente condición:
+
+El Software se proporciona tal cual, sin garantía de ningún tipo, expresa o implícita, y los autores no serán responsables de ninguna reclamación, daños u otra responsabilidad, que surja de la realción del uso de este software.
